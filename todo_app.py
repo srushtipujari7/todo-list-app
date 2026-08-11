@@ -4,7 +4,7 @@ from tkinter import messagebox
 class TodoApp:
     def __init__(self, root):
         self.root = root
-        self.root.title("Simple To-Do List Application")
+        self.root.title("Advanced To-Do List Application v1.1")
         self.root.geometry("400x450")
         self.root.config(bg="#f0f0f0")
 
